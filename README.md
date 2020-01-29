@@ -19,4 +19,4 @@ Recipe for a hit breakfree song:
   * Generous serving of energy
   * A pinch of sentiment to taste
   * Avoid  acousticness and instrumentalness, for the dish to come out in the best possible way!
-![](https://github.com/manas3858/Hit-Song-Prediction-using-NLP/blob/master/breakfree%20song%20analysis.JPG)
+![](https://github.com/iAn1sha/Hit-Song-Prediction-using-NLP/blob/master/breakfree%20song%20analysis.JPG)
